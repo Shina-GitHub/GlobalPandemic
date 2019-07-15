@@ -1,0 +1,28 @@
+Index,Country,ISO2,ISO3,Prevalence,
+1,Antigua and Barbuda,AG,ATG,0,AG
+2,Aruba,AW,ABW,0,AW
+3,Bahamas,BS,BHS,0,BS
+4,Barbados,BB,BRB,0,BB
+5,Belize,BZ,BLZ,0,BZ
+6,Canada,CA,CAN,0,CA
+7,Costa Rica,CR,CRI,0,CR
+8,Cuba,CU,CUB,0,CU
+9,Curacao,CW,CUW,0,CW
+10,Dominican Republic,DO,DOM,0,DO
+11,El Salvador,SV,SLV,0,SV
+12,Grenada and Carriacuou,GD,GRD,0,GD
+13,Guadeloupe,GP,GLP,0,GP
+14,Guatemala,GT,GTM,0,GT
+15,Haiti,HT,HTI,0,HT
+16,Honduras,HN,HND,0,HN
+17,Jamaica,JM,JAM,0,JM
+18,Martinique,MQ,MTQ,0,MQ
+19,Mexico,MX,MEX,0,MX
+20,Nicaragua,NI,NIC,0,NI
+21,Panama,PA,PAN,0,PA
+22,Puerto Rico,PR,PRI,0,PR
+23,St. Lucia,LC,LCA,0,LC
+24,St. Vincent,VC,VCT,0,VC
+25,Trinidad and Tobago,TT,TTO,0,TT
+26,United States,US,USA,0,US
+27,US Virgin Islands,VI,VIR,0,VI

@@ -1,0 +1,57 @@
+Index,Country,ISO2,ISO3,Prevalence
+1,Algeria,DZ,DZA,0
+2,Angola,AO,AGO,0
+3,Benin,BJ,BEN,0
+4,Botswana,BW,BWA,0
+5,Burkina Faso,BF,BFA,0
+6,Burundi,BI,BDI,0
+7,Cameroon,CM,CMR,0
+8,Cape Verde,CV,CPV,0
+9,Central African Republic,CF,CAF,0
+10,Chad,TD,TCD,0
+11,Comoros,KM,COM,0
+12,Democratic Republic of Congo,CD,COD,0
+13,Djibouti,DJ,DJI,0
+14,Egypt,EG,EGY,0
+15,Equatorial Guinea,GQ,GNQ,0
+16,Eritrea,ER,ERI,0
+17,Ethiopia,ET,ETH,0
+18,Gabon,GA,GAB,0
+19,Gambia,GM,GMB,0
+20,Ghana,GH,GHA,0
+21,Guinea,GN,GIN,0
+22,Guinea-Bissau,GW,GNB,0
+23,Ivory Coast,CI,CIV,0
+24,Kenya,KE,KEN,0
+25,Lesotho,LS,LSO,0
+26,Liberia,LR,LBR,0
+27,Libya,LY,LBY,0
+28,Madagascar,MG,MDG,0
+29,Malawi,MW,MWI,0
+30,Mali,ML,MLI,0
+31,Mauritania,MR,MRT,0
+32,Mauritius,MU,MUS,0
+33,Morocco,MA,MAR,0
+34,Mozambique,MZ,MOZ,0
+35,Namibia,NA,NAM,0
+36,Niger,NE,NER,0
+37,Nigeria,NG,NGA,0
+38,Republic of the Congo,CG,COG,0
+39,Reunion,RE,REU,0
+40,Rwanda,RW,RWA,0
+41,Sao Tome and Principe,ST,STP,0
+42,Senegal,SN,SEN,0
+43,Seychelles,SC,SYC,0
+44,Sierra Leone,SL,SLE,0
+45,Somalia,SO,SOM,0
+46,South Africa,ZA,ZAF,0
+47,South Sudan,SS,SSD,0
+48,Sudan,SD,SDN,0
+49,Swaziland,SZ,SWZ,0
+50,Tanzania,TZ,TZA,0
+51,Togo,TG,TGO,0
+52,Tunisia,TN,TUN,0
+53,Uganda,UG,UGA,0
+54,Western Sahara,EH,ESH,0
+55,Zambia,ZM,ZMB,0
+56,Zimbabwe,ZW,ZWE,0
